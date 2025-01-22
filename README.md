@@ -1,6 +1,7 @@
+>que paso
 # ADD
 
-## Enunciado del Script
+## Enunciado del Script 
 Proporciona una interfaz de línea de comandos para que los administradores de sistema puedan realizar tareas comunes de administración de usuarios y unidades organizativas de manera eficiente.
 Crea un menú con las siguientes opciones:
 
